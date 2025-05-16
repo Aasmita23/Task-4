@@ -3,7 +3,7 @@
 ---
 
 # Interactive Dashboard
-![image](https://github.com/Aasmita23/Task-4/blob/main/Power%20BI/Screenshot%202025-05-16%20165009.png)
+![image](https://github.com/Aasmita23/Task-4/compare/main...Aasmita23-patch-1)
 
 ## Key Insights:
 - Product Performance:
